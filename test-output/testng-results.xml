@@ -2,27 +2,35 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-12T20:56:46 ICT" name="Default suite" finished-at="2024-08-12T20:56:52 ICT" duration-ms="6534">
+  <suite started-at="2024-08-12T21:02:56 ICT" name="Default suite" finished-at="2024-08-12T21:03:02 ICT" duration-ms="6449">
     <groups>
     </groups>
-    <test started-at="2024-08-12T20:56:46 ICT" name="Default test" finished-at="2024-08-12T20:56:52 ICT" duration-ms="6534">
+    <test started-at="2024-08-12T21:02:56 ICT" name="Default test" finished-at="2024-08-12T21:03:02 ICT" duration-ms="6449">
       <class name="automation.testsuite.Day12_Homework">
-        <test-method is-config="true" signature="openChrome()[pri:0, instance:automation.testsuite.Day12_Homework@7334aada]" started-at="2024-08-12T20:56:46 ICT" name="openChrome" finished-at="2024-08-12T20:56:49 ICT" duration-ms="3926" status="PASS">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:02:56 ICT" name="openChrome" finished-at="2024-08-12T21:02:59 ICT" duration-ms="2948" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openChrome -->
-        <test-method signature="case1_Dropdownlist()[pri:0, instance:automation.testsuite.Day12_Homework@7334aada]" started-at="2024-08-12T20:56:49 ICT" name="case1_Dropdownlist" finished-at="2024-08-12T20:56:50 ICT" duration-ms="456" status="PASS">
+        <test-method signature="case1_Dropdownlist()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:02:59 ICT" name="case1_Dropdownlist" finished-at="2024-08-12T21:02:59 ICT" duration-ms="439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- case1_Dropdownlist -->
-        <test-method is-config="true" signature="openChrome()[pri:0, instance:automation.testsuite.Day12_Homework@7334aada]" started-at="2024-08-12T20:56:50 ICT" name="openChrome" finished-at="2024-08-12T20:56:52 ICT" duration-ms="1763" status="PASS">
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:02:59 ICT" name="closeBrower" finished-at="2024-08-12T21:02:59 ICT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:02:59 ICT" name="openChrome" finished-at="2024-08-12T21:03:02 ICT" duration-ms="2447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openChrome -->
-        <test-method signature="case2_CheckRadioSuccessfully()[pri:0, instance:automation.testsuite.Day12_Homework@7334aada]" started-at="2024-08-12T20:56:52 ICT" name="case2_CheckRadioSuccessfully" finished-at="2024-08-12T20:56:52 ICT" duration-ms="326" status="PASS">
+        <test-method signature="case2_CheckRadioSuccessfully()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:03:02 ICT" name="case2_CheckRadioSuccessfully" finished-at="2024-08-12T21:03:02 ICT" duration-ms="409" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- case2_CheckRadioSuccessfully -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:automation.testsuite.Day12_Homework@42e99e4a]" started-at="2024-08-12T21:03:02 ICT" name="closeBrower" finished-at="2024-08-12T21:03:02 ICT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
       </class> <!-- automation.testsuite.Day12_Homework -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
