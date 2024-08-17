@@ -1,6 +1,7 @@
 package automation.testsuite;
 
 import static org.testng.Assert.assertEquals;
+
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
 
@@ -17,7 +18,7 @@ import automation.constant.CT_PageURLs;
 public class Day12_Homework extends CommonBase{
 	@BeforeMethod
 	public void openChrome() {
-		driver = initChromeDriver(CT_PageURLs.URL_SELENIUMEASE4);
+		driver = initChromeDriver(CT_PageURLs.URL_SELENIUMEASY4);
 	}
 	@Test
 	public void case1_Dropdownlist() {
