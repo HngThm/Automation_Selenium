@@ -8,4 +8,10 @@ public class CT_PageURLs {
 	public static String URL_SELENIUMEASY5="https://www.globalsqa.com/demo-site/select-dropdown-menu/";
 	public static String URL_ALADA="https://alada.vn/";
 	public static String URL_CODESTAR="http://test-system.crmstar.vn/";
+	public static String URL_TEDU="https://tedu.com.vn/dang-nhap.html";
+	public static String URL_GURU99 = "https://demo.guru99.com/test/";
+	public static String URL_RISE = "https://rise.fairsketch.com/signin";
+
+
+
 }
