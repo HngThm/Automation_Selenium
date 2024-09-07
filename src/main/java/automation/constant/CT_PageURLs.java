@@ -11,7 +11,11 @@ public class CT_PageURLs {
 	public static String URL_TEDU="https://tedu.com.vn/dang-nhap.html";
 	public static String URL_GURU99 = "https://demo.guru99.com/test/";
 	public static String URL_RISE = "https://rise.fairsketch.com/signin";
-
-
+	public static String URL_AUTOMATIONTESTING = "https://demo.automationtesting.in/Alerts.html";
+	public static String URL_ALADA_ALERT ="https://alada.vn/tai-khoan/dang-nhap.html";
+	public static String URL_SELENIUM_PRACTISE ="https://seleniumpractise.blogspot.com/2019/01/alert-demo.html";
+	public static String URL_GURU_ALERT="https://demo.guru99.com/test/delete_customer.php";
+	
+	
 
 }
