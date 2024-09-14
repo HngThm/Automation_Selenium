@@ -15,7 +15,8 @@ public class CT_PageURLs {
 	public static String URL_ALADA_ALERT ="https://alada.vn/tai-khoan/dang-nhap.html";
 	public static String URL_SELENIUM_PRACTISE ="https://seleniumpractise.blogspot.com/2019/01/alert-demo.html";
 	public static String URL_GURU_ALERT="https://demo.guru99.com/test/delete_customer.php";
-	
-	
+	public static String URL_GURU_POPUP="https://demo.guru99.com/popup.php";
+	public static String URL_CODESTAR2="https://codestar.vn/";
+	public static String URL_MEDIAMART="https://mediamart.vn/";
 
 }

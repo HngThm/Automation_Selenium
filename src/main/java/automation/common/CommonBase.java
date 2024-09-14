@@ -1,6 +1,7 @@
 package automation.common;
 
 import java.time.Duration;
+import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -43,8 +44,22 @@ public class CommonBase {
 	public WebElement getElementPresentDOM(By locator) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(initWaitTime));
 		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
-		return driver.findElement(locator);
+		WebElement element = driver.findElement(locator);
+		return element;
 	}
+	
+//	public List<WebElement> getListWebElement(By locator){
+//		List<WebElement> elementList = null;
+//		try {
+//			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(initWaitTime));
+//			wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+//			elementList = driver.findElements(locator);
+//			return elementList;
+//		} catch (Exception e) {
+//			return elementList;
+//		}
+//		
+//	}
 
 	public void clickJavaScript(By locator) {
 		WebElement element = getElementPresentDOM(locator);
@@ -114,4 +129,5 @@ public class CommonBase {
 			return false;
 		}
 	}
+	
 }
