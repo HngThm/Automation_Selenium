@@ -6,7 +6,7 @@ public class CT_PageURLs {
 	public static String URL_SELENIUMEASE3="https://demo.seleniumeasy.com/basic-select-dropdown-demo.html";
 	public static String URL_SELENIUMEASY4="https://demo.seleniumeasy.com/input-form-demo.html";
 	public static String URL_SELENIUMEASY5="https://www.globalsqa.com/demo-site/select-dropdown-menu/";
-	public static String URL_ALADA="https://alada.vn/";
+	public static String URL_ALADA="https://alada.vn/tai-khoan/dang-nhap.html";
 	public static String URL_CODESTAR="http://test-system.crmstar.vn/";
 	public static String URL_TEDU="https://tedu.com.vn/dang-nhap.html";
 	public static String URL_GURU99 = "https://demo.guru99.com/test/";
@@ -18,5 +18,9 @@ public class CT_PageURLs {
 	public static String URL_GURU_POPUP="https://demo.guru99.com/popup.php";
 	public static String URL_CODESTAR2="https://codestar.vn/";
 	public static String URL_MEDIAMART="https://mediamart.vn/";
-
+	public static String URL_DIENMAY="https://dienmaynhapkhaugiare.com.vn/";
+	public static String URL_BEPANTOAN="https://bepantoan.vn/";
+	
+	
+	
 }
